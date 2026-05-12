@@ -9,6 +9,6 @@ import { Btn } from './btn/btn';
   styleUrls: ['./app.css']
 })
 export class App {
-  avatar:string = "images/MaineCoon.png"
+  avatar:string = "./images/MaineCoon.png"
   protected readonly title = signal('social-links-profile');
 }
