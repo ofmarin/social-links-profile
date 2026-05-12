@@ -19,6 +19,7 @@ a{
 
 #button:hover{
   background-color:#C4F82A;
+  color:#333;
 }
 
 :host{
