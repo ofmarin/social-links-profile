@@ -30,7 +30,7 @@
 :host {
   display: flex;
   flex-direction: column;
-  width: 50%%;
+  width: 50%;
   height: 100vh;
   justify-content: center;
   align-items: center;
@@ -73,7 +73,7 @@ h1, h4{
 }
 #name{
   color: #FFFFFF;
-  font-family: "Inter-SemiBold", Serif;
+  font-family: Inter-SemiBold, sans-serif;
   font-size: 24px;
   line-height: 150%;
 
@@ -86,7 +86,7 @@ h1, h4{
 }
 #bio{
   color: #FFFFFF;
-  font-family: Inter-Regular,Serif;
+  font-family: Inter-Regular,serif;
   font-size: 14px;
   line-height: 150%;
 }
